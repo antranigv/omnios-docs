@@ -14,6 +14,7 @@ To run the documentation locally, follow these steps:
    ```
    git clone https://github.com/antranigv/omnios-docs.git
    cd omnios-docs
+   git submodule update --init --recursive
    ```
 2. Install Hugo: If you do not have Hugo installed, follow the instructions on the Hugo website to install it for your platform.
 3. Run the Hugo Server:
