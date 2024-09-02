@@ -23,14 +23,16 @@ illumos continued to develop and enhance many of the core technologies from Open
 
 Since 2010, a number of companies have built their businesses around illumos, or are running on one of the distributions built from it. For a very incomplete list, please see [who is using illumos](https://illumos.org/docs/about/who/).
 
-## OmniOS and OmniOS Community Edition (OmniOSce): A Modern Server OS
+## OmniOS: Just Enough Operating System
 
-OmniOS, initially developed by OmniTI in 2012, aimed to provide a modern, stable, and secure server operating system based on the illumos kernel. Designed with a focus on simplicity, ease of use, and enterprise deployment, OmniOS was quickly adopted by organizations looking for a reliable UNIX®-based operating system that continued the legacy of Solaris and OpenSolaris.
+OmniOS, initially developed by [OmniTI](https://omniti.com) in 2012, aimed to provide a modern, stable, secure and "Just Enough" server operating system based on illumos.
 
-The [OmniTI release video](https://www.youtube.com/watch?v=) at LISA demonstrated the features and capabilities of the initial OmniOS release.
+The _OmniOS: Motivation and Design_ presentation ([video](https://www.usenix.org/conference/lisa12/omnios-motivation-and-design), [slides](https://www.slideshare.net/slideshow/omnios-lisa-2012/23787783)) by ﻿Theo Schlossnagle at LISA '12 demonstrated the features and capabilities of the initial OmniOS release.
 
-After OmniTI ceased active development in 2017, the community-driven OmniOS Community Edition (OmniOSce) was born. The [announcement video](https://www.youtube.com/watch?v=) when OmniOS was handed over to the community highlights this transition. OmniOSce has since taken over the reins of development, maintaining and enhancing OmniOS to meet modern needs. The community edition continues to provide regular updates, support, and new features, ensuring that OmniOS remains a powerful, open-source operating system for servers.
+On April 21st 2017, [Robert Treat announced](https://omnios.org/ml-archive/2017-April/008699.html) that OmniTI would suspend active development of OmniOS and support contracts would not be renewed. After five years of releases twice a year, OmniOS had become highly popular, yet a goal of making OmniOS community operated had not been realized.
 
-**The Present and Future of OmniOSce**
+While the announcement of this “radical” approach [stunned many](https://www.theregister.co.uk/2017/04/25/oracle_free_solaris_project_stops/), Treat explained that the action was taken in part in hopes that it might catalyze the community, stating “To be clear, our goal is not to abandon OmniOS, but to divest OmniTI from the open source project in order to spur others to participate more.”
 
-Today, OmniOSce is maintained by an active and dedicated community of developers and users. It continues to build on the illumos foundation, delivering a robust and secure operating system for servers and enterprises. With its strong roots in OpenSolaris, illumos, and the initial OmniOS project, OmniOSce represents the culmination of years of development, innovation, and dedication to the ideals of open-source software.
+14 weeks later, OmniOS Community Edition is a reality.
+
+[Andy Fiddaman](https://www.citrus-it.net/), [Tobias Oetiker](https://www.oetiker.ch/) and Dominik Hassler have spent some quality time setting up the systems and procedures to take over maintenance and development of OmniOS.
