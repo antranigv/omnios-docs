@@ -15,7 +15,7 @@ After Oracle acquired Sun Microsystems in 2010, the company decided to discontin
 
 ## illumos: A New Beginning
 
-In 2010, [illumos](https://illumos.org) was created as a community-driven fork of the OpenSolaris core operating system, intended to keep the spirit of the project alive while maintaining an open and collaborative development environment. The illumos project focused on providing a fully open-source, cutting-edge operating system platform, removing the closed-source components that Oracle had retained.
+On August 3, 2010, Garrett D'Amore announced the [illumos](https://illumos.org) project as a community-driven fork of the OpenSolaris core operating system, intended to keep the spirit of the project alive while maintaining an open and collaborative development environment. The illumos project focused on providing a fully open-source, cutting-edge operating system platform, swapping closed source bits of OpenSolaris with open implementations.
 
 For a deeper insight into illumos and its creation, you can read [its announcement](https://illumos.org/docs/about/announcement/) and watch the YouTube talk by Bryan Cantrill, ["Fork Yeah! The Rise and Development of illumos"](https://www.youtube.com/watch?v=U_GY03CO3sA) (Note: Potentially not suitable for minors).
 

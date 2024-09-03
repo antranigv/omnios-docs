@@ -1,9 +1,7 @@
 ---
-title: Introduction
+title: OmniOS Handbook
 type: docs
 ---
-
-# Introduction
 
 
 **Welcome to the OmniOS Handbook!**
