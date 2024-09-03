@@ -19,7 +19,7 @@ As mentioned in the _OmniOS: Motivation and Design_ presentation, the goals of t
 - ABI Stability: old software runs on new installations
 - ZFS: OmniOS can run root-on-ZFS, supports ZFS Boot Environments, fault management, administrative delegation and more
 - Zones: completely isolated virtual servers within a single operating system instance
-- DTrace: comprehensive dynamic [tracing](https://en.wikipedia.org/wiki/Tracing_(software)) framework for debugging production systems
+- DTrace: comprehensive dynamic tracing framework for debugging production systems
 
 ## OmniOS Usage
 
